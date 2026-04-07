@@ -1,0 +1,17 @@
+# 编译产物
+*.o
+*.so
+*.node
+sign_mt
+nohup.out
+
+# 核心依赖库 (需从系统安装或单独提供)
+# libssh2.so.1
+# libcrbase.so
+# libbugly.so
+
+# 临时文件
+*.tmp
+*.log
+*.swp
+*~
